@@ -1,2 +1,2 @@
-# homebrew-xojotools
-Homebrew formula for the xojotools command line application.
+# homebrew-xojotool
+Homebrew formula for the `xojotool` command line application.
