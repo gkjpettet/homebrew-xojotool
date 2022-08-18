@@ -1,8 +1,8 @@
 class Xojotool < Formula
   desc "A command line tool for working with Xojo projects."
   homepage "https://github.com/gkjpettet/xojotool"
-  url "https://github.com/gkjpettet/xojotool/files/9371851/xojotool-1.0.4-macos.zip"
-  sha256 "500d4d9149b88143de35b2fcaf2c321173d294b9fdc075dc6d28351e61a08125" # openssl sha256 [file]
+  url "https://github.com/gkjpettet/homebrew-xojotool/files/9374705/xojotool-1.0.4-macos.zip"
+  sha256 "71d2655302b712ac60a730722b619ccf4ce0f7296f7480f7f8847b74e52b494d" # openssl sha256 [file]
 
   def install
 	bin.install "xojotool Libs"
